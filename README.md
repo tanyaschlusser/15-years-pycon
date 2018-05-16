@@ -6,8 +6,9 @@ This repo contains code to reproduce the analysis and visualization.
 ## License notice
 
 Some content in this repo is not ours, and the MIT license does not apply to
-that content. Please see the directory `LICENSED_CONTENT` for identification
-of licensed content and to read their respective licenses.
+that content. Please see the directory 
+[LICENSED_CONTENT](https://github.com/tanyaschlusser/15-years-pycon/tree/master/LICENSED_CONTENT)
+for identification of licensed content and to read their respective licenses.
 
 ## Setup
 
