@@ -1,0 +1,160 @@
+Pakistan|PK|Lahore|31.52,74.36
+Nigeria|NG|Lagos|6.52,3.38
+Hong Kong|HK|Hong Kong|22.40,114.11
+Lithuania|LT|Kaunas|54.90,23.90
+Colombia|CO|Bogotá|4.71,-74.07
+Colombia|CO|Medellin|6.24,-75.58
+Zimbabwe|ZW|Harare|-17.83,31.03
+Slovakia|SK|Bratislava|48.15,17.11
+Israel|IL|Tel Aviv|32.09,34.78
+Namibia|NA|Windhoek|-22.56,17.07
+Czech Republic|CZ|Brno|49.20,16.61
+Czech Republic|CZ|Prague|50.08,14.44
+Belarus|BY|Minsk|53.90,27.56
+Sweden|SE|Stockholm|59.33,18.07
+Sweden|SE|Gotheborg|57.71,11.97
+Korea|KR|Seoul|37.57,126.98
+Malaysia|MY|Kuala Lumpur|3.14,101.69
+Iran|IR|Tehran|35.69,51.39
+Bangladesh|BD|Dhaka|23.81,90.41
+Spain|ES|Madrid|40.42,-3.70
+Spain|ES|Zaragoza|41.65,-0.89
+Spain|ES|Valencia|39.47,-0.38
+Spain|ES|Almeria|36.83,-2.46
+Spain|ES|Cáceres|39.48,-6.37
+Spain|ES|Bilbao|43.26,-2.93
+Spain|ES|Barcelona|41.39,2.17
+Russia|RU|Yekaterinburg|56.84,60.61
+Russia|RU|Moscow|55.76,37.62
+Philippines|PH|UP Diliman|14.66,121.07
+Philippines|PH|Manila|14.60,120.98
+Philippines|PH|Quezon City|14.68,121.04
+Philippines|PH|Cebu City|10.32,123.89
+Philippines|PH|Cagayan de Oro|8.45,124.63
+Philippines|PH|Makati City|14.55,121.02
+Venezuela|VE|Caracas|10.48,-66.90
+Venezuela|VE|Merida|8.57,-71.18
+Venezuela|VE|Maracay|10.24,-67.61
+Uruguay|UY|Montevideo|-34.90,-56.16
+Ukraine|UA|Kiev|50.45,30.52
+Ukraine|UA|Lviv|49.84,24.03
+Ukraine|UA|Britania|28.68,77.15
+Taiwan|TW|Taipei|25.03,121.57
+South Africa|ZA|Cape Town|-33.92,18.42
+South Africa|ZA|Johannesburg|-26.20,28.05
+Canada|CA|Toronto|43.65,-79.38
+Canada|CA|Montreal|45.50,-73.57
+Japan|JP|Tokyo|35.69,139.69
+Germany|DE|Liepzig|51.34,12.37
+Germany|DE|Koln|50.94,6.96
+Germany|DE|Berlin|52.52,13.40
+Germany|DE|Erlangen|49.59,11.01
+Germany|DE|Munich|48.14,11.58
+Germany|DE|Karlsruhe|49.01,8.40
+Germany|DE|Heidelberg|49.40,8.67
+China|CN|Shanghai|31.23,121.47
+China|CN|Beijing|39.90,116.41
+China|CN|Zhuhai|22.27,113.58
+China|CN|Suzhou|31.30,120.59
+China|CN|Shenzen|22.54,114.06
+China|CN|Hangzhou|30.27,120.16
+China|CN|Guangzhou|23.13,113.26
+Singapore|SG|Singapore|1.28,103.85
+New Zealand|NZ|Waitangi|-35.27,174.08
+New Zealand|NZ|Auckland|-36.85,174.76
+New Zealand|NZ|Wellington|-41.29,174.78
+New Zealand|NZ|Christchurch|-43.53,172.64
+New Zealand|NZ|Dunedin|-45.88,170.50
+Ireland|IE|Dublin|53.35,-6.26
+Finland|FI|Turku|60.45,22.27
+Finlnd|FI|Espoo|60.21,24.66
+Finland|FI|Helsinki|60.17,24.94
+Australia|AU|Sydney|-33.87,151.21
+Australia|AU|Hobart|-42.88,147.33
+Australia|AU|Brisbane|-27.47,153.03
+Australia|AU|Melbourne|-37.81,144.96
+Austria|AT|Vienna|48.21,16.37
+India|IN|Bangalore|12.97,77.59
+India|IN|Pune|18.52,73.86
+India|IN|New Delhi|28.61,77.21
+India|IN|Delhi|28.70,77.10
+Argentina|AR|Buenos Aires|-34.60,-58.38
+Argentina|AR|Cordoba|-31.42,-64.19
+Argentina|AR|Junin|-34.59,-60.95
+Argentina|AR|San Luis|-33.30,-66.34
+Argentina|AR|Rosario|-32.94,-60.65
+Argentina|AR|Rafaela|-31.25,-61.49
+Argentina|AR|Mendoza|-32.89,-68.85
+Argentina|AR|Bahia Blanca|-38.72,-62.27
+Poland|PL|Rybnik|50.10,18.55
+Poland|PL|Warsaw|52.23,21.01
+Poland|PL|Jaszowiec|49.70,18.84
+Poland|PL|Kielce|50.87,20.63
+Poland|PL|Szczyrk|49.72,19.02
+Poland|PL|Ossa|51.81,20.39
+Brazil|BR|Campinas|-22.91,-47.06
+Brazil|BR|Brasilia|-15.79,-47.88
+Brazil|BR|Joinville|-26.30,-48.85
+Brazil|BR|Rio de Janeiro|-22.91,-43.17
+Brazil|BR|Caxias do Sul|-29.16,-51.18
+Brazil|BR|Curitibia|-25.42,-49.27
+Brazil|BR|Sao Paulo|-23.55,-46.63
+Brazil|BR|Porto de Galinhas|-8.48,-35.00
+Brazil|BR|Sao Jose dos Campos|-23.22,-45.90
+Brazil|BR|Florianopolis|-27.59,-48.55
+France|FR|Paris|48.86,2.35
+France|FR|Rennes|48.12,-1.68
+France|FR|Strasbourg|48.57,7.75
+France|FR|Lyon|45.76,4.84
+France|FR|Pau|43.30,-0.37
+France|FR|Provence-Alpes|43.94,6.07
+France|FR|Toulouse|43.60,1.44
+Italy|IT|Firenze|43.77,11.26
+Italy|IT|Florence|43.77,11.26
+Italy|IT|Rimini|44.07,12.57
+Italy|IT|Naples|40.85,14.27
+Italy|IT|Trento|46.07,11.12
+Netherlands|NL|Amsterdam|52.37,4.90
+Netherlands|NL|Arnhem|51.99,5.90
+Netherlands|NL|Groningen|53.22,6.57
+Switzerland|CH|Geneva|46.20,6.14
+Switzerland|CH|Zurich|47.38,8.54
+Belgium|BE|Charleroi|50.41,4.44
+Belgium|BE|Brussels|50.85,4.35
+Hungary|HU|Budapest|47.50,19.04
+Romania|RO|Bucharest|44.43,26.10
+United States|US|Washington, DC|38.91,-77.04
+United States|US|Addison|32.96,-96.83
+United States|US|Alexandria|38.80,-77.04
+United States|US|Austin|30.27,-97.74
+United States|US|Chicago|41.88,-87.63
+United States|US|Coll Station|30.63,-96.33
+United States|US|Columbus|39.96,-83.00
+United States|US|Chapel Hill|35.91,-79.06
+United States|US|Dallas|32.78,-96.80
+United States|US|Atlanta|33.75,-84.39
+United States|US|Lawrence, KS|38.97,-95.24
+United States|US|New Orleans|29.95,-90.07
+United States|US|New York|40.71,-74.01
+United States|US|San Francisco|37.77,-122.42
+United States|US|San Jose|37.34,-121.89
+United States|US|Santa Clara|37.35,-121.96
+United States|US|Mountain View|37.39,-122.08
+United States|US|Philadelphia|39.95,-75.17
+United States|US|Seattle|47.61,-122.33
+United States|US|Spokane|47.68,-117.43
+United States|US|San Diego|32.72,-117.16
+United States|US|Pasadena|34.15,-118.14
+United States|US|Portland|45.52,-122.68
+United States|US|Cleveland|41.50,-81.69
+United States|US|Boston|42.36,-71.06
+United States|US|Research Triangle|35.90,-78.86
+United Kingdom|UK|Edinburgh|55.95,-3.19
+United Kingdom|UK|Birmingham|52.49,-1.89
+United Kingdom|UK|Bristol|51.45,-2.59
+United Kingdom|UK|Cambridge|52.21,0.12
+United Kingdom|UK|Cardiff|51.48,-3.18
+United Kingdom|UK|Coventry|52.41,-1.52
+United Kingdom|UK|London|51.51,-0.13
+United Kingdom|UK|Oxford|51.75,-1.26
+Luxembourg|LU|Luxembourg City|49.61,6.13

@@ -1,0 +1,11 @@
+{"Best practices": [ "concurrency", "performance", "time", "api design", "idioms + style", "(meta)classes", "productivity", "self improvement", "education", "use case", "2 to 3" ],
+"Web/Applications": [ "WSGI", "web", "Zope", "Twisted", "Flask", "Django", "TurboGears/Pylons", "Pyramid",  "Tornado", "routing", "network communication", "security", "censorship", "encoding + localization", "GUI app" ],
+ "Other": [ "mini language", "robotics", "internet of things", "tools", "art", "games", "fun" ],
+ "Community": [ "outreach", "diversity", "events", "advocacy", "funding", "copyright", "python" ],
+ "Python language": [ "core", "data model", "memory model", "standard library", "abstract syntax tree", "containers", "iterators", "import", "time", "unicode", "Decimal", "unittest", "regex", "strings", "GIL", "2 to 3" ],
+ "Data": [ "database", "Postgres", "SQLAlchemy", "ORMs", "NOSQL", "acquisition", "preparation", "best practice" ],
+ "Science": [ "symbolic", "analysis", "modeling", "text", "parallel", "neural net", "machine learning", "Pandas", "NumPy", "numarray", "IPython/Jupyter", "GIS", "visualization" ],
+ "Implementation/multi-language": [ "multi-language", "other platform", "other implementations", "all interpreters", "Stackless", "PyPy", "IronPython", "Jython" ],
+ "Keynotes": ["keynotes"],
+ "Software development": [ "testing", "distribution", "documentation", "debugging", "workflow", "version control", "IDEs", "human factors" ],
+ "Infrastructure": ["scaling data pipeline", "scaling web traffic", "messaging", "monitoring", "continuous deployment", "config", "best practice"]}

@@ -1,0 +1,6 @@
+venv/
+Pipfile.lock
+PyCons.db
+*.pyc
+*.class
+*.pdf

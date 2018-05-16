@@ -1,0 +1,5 @@
+lxml
+requests
+SQLAlchemy >= 1
+nltk
+scikit-learn

@@ -1,0 +1,116 @@
+1995-07-01|SWIG|Implementation/multi-language
+1998-10-01|Rackspace|Web/Applications
+1999-08-23|Blogger|Web/Applications
+2000-07-29|MoinMoin|Web/Applications
+2000-10-28|Pygame|Web/Applications
+2001-01-01|PEP 249: DB-APIv2.0|Data
+2001-03-06|PSF|Community
+2001-07-02|BitTorrent|Web/Applications
+2001-12-01|IPython|Science
+2002-04-02|reStructured Text|Software development
+2002-08-24|PyPI start? (PEP 301)|Software development
+2002-10-22|Twisted|Web/Applications
+2003-02-06|Plone 1.0|Web/Applications
+2003-05-27|Wordpress|Web/Applications
+2003-06-01|Matplotlib|Science
+2003-06-01|Wiring / Arduino|Other
+2003-06-01|Selenium|Software development
+2003-07-29|Python 2.3|Python language
+2003-12-07|PEP 333 (WSGI)|Web/Applications
+2004-02-04|Facebook|Web/Applications
+2004-03-19|Markdown|Software development
+2004-07-01|PHP 5|Web/Applications
+2004-11-01|Zope 3|Web/Applications
+2004-11-30|Python 2.4|Python language
+2004-12-06|MapReduce @ OSCON|Infrastructure
+2005-01-01|Make: magazine|Other
+2005-02-14|YouTube|Web/Applications
+2005-02-18|'AJAX' coined|Web/Applications
+2005-02-24|SageMath|Science
+2005-04-07|git|Software development
+2005-04-08|lxml 0.5|Web/Applications
+2005-07-21|Django|Web/Applications
+2005-12-13|Ruby on Rails|Web/Applications
+2006-01-01|NumPy|Science
+2006-01-01|JQuery|Web/Applications
+2006-03-01|Amazon Web Services|Infrastructure
+2006-03-01|Twitter|Web/Applications
+2006-06-23|Nvidia CUDA|Science
+2006-09-19|Python 2.5|Python language
+2006-10-19|OpenCV 1.0|Science
+2006-12-14|SQLAlchemy|Data
+2007-01-15|Netflix streaming|Web/Applications
+2007-06-01|scikit-learn|Science
+2007-06-29|IPhone|Implementation/multi-language
+2007-09-15|virtualenv 0.8.1|Software development
+2008-02-08|GitHub|Software development
+2008-02-08|Bitbucket|Software development
+2008-03-21|Sphinx|Software development
+2008-08-18|Bitcoin|Other
+2008-09-23|Android|Implementation/multi-language
+2008-10-02|Python 2.6|Python language
+2008-10-12|pip|Software development
+2008-10-19|Jekyll|Infrastructure
+2008-12-03|Python 3.0|Python language
+2009-02-11|MongoDB|Data
+2009-05-27|Node.js|Implementation/multi-language
+2009-06-14|Parallel GPU @ ICML|Infrastructure
+2009-06-26|Python 3.1|Python language
+2009-09-10|Tornado|Web/Applications
+2009-12-10|Go language|Implementation/multi-language
+2009-12-25|Pandas|Science
+2010-04-01|Flask|Web/Applications
+2010-04-01|Kaggle|Science
+2010-06-30|Theano|Science
+2010-07-03|Python 2.7|Python language
+2010-07-07|Rust|Implementation/multi-language
+2010-08-19|Pelican|Web/Applications
+2010-08-20|Angular.js|Web/Applications
+2010-09-26|PEP 3333 (WSGI 1.0.1)|Web/Applications
+2010-10-06|Instagram|Web/Applications
+2010-12-18|Arab spring|Other
+2011-01-14|Watson on Jeopardy|Science
+2011-02-02|Jenkins|Infrastructure
+2011-02-14|Requests|Data
+2011-02-20|Python 3.2|Python language
+2011-02-28|PyPA|Software development
+2011-05-05|Raspberry Pi|Implementation/multi-language
+2011-05-16|Xamarin|Web/Applications
+2011-08-28|Jupyter Notebook|Science
+2011-09-01|Coursera|Web/Applications
+2011-09-19|Storm|Infrastructure
+2011-10-06|Google Compute Platform|Infrastructure
+2011-11-01|Travis CI|Infrastructure
+2011-12-10|Hadoop|Infrastructure
+2012-01-01|NumFocus|Community
+2012-08-28|John Hunter, R.I.P.|Community
+2012-09-06|Conda package manager|Software development
+2012-09-20|PEP 427 (Wheels)|Software development
+2012-09-29|Python 3.3|Python language
+2012-10-02|SHA-3|Web/Applications
+2013-02-22|PyCA|Web/Applications
+2013-03-01|React.js|Web/Applications
+2013-03-20|Docker|Infrastructure
+2013-03-30|Warehouse|Software development
+2013-06-04|Snowden leaks|Web/Applications
+2014-03-17|Python 3.4|Python language
+2014-04-01|BeeWare|Web/Applications
+2014-04-07|Heartbleed|Web/Applications
+2014-05-03|MicroPython|Implementation/multi-language
+2014-05-30|Spark|Infrastructure
+2014-06-09|Obey the testing goat!|Software development
+2014-10-08|HTML 5|Web/Applications
+2015-03-27|Keras|Science
+2015-04-08|Swift|Implementation/multi-language
+2015-06-01|ECMAScript2015|Web/Applications
+2015-07-21|Kubernetes|Infrastructure
+2015-07-30|Ethereum|Other
+2015-09-13|Python 3.5|Python language
+2015-11-09|TensorFlow|Science
+2015-12-21|Lektor|Web/Applications
+2016-01-23|Python on GitHub|Software development
+2016-02-10|micro:bit|Other
+2016-12-23|Python 3.6|Python language
+2017-01-22|pipenv|Software development
+2017-02-28|WebAssembly|Web/Applications
+2017-11-17|CircuitPython|Implementation/multi-language

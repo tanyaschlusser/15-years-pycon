@@ -1,0 +1,2527 @@
+{
+  "2003": {
+    "Best practices": {
+      "concurrency": {
+        "n": 2
+      },
+      "education": {
+        "n": 2
+      },
+      "performance": {
+        "n": 1,
+        "caption": "\"UCPy: Reverse-Engineering Python\" explores static type inference and other optimization options that find their way into future Python implementations. Performance optimization is consistently interesting to the community with steady contributions of about 2-3 talks per conference."
+      },
+      "productivity": {
+        "n": 1
+      },
+      "use case": {
+        "n": 2
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 1
+      },
+      "preparation": {
+        "n": 2,
+        "caption": "XML and the semantic web are seen as the emerging way to communicate data."
+      }
+    },
+    "Implementation/multi-language": {
+      "multi-language": {
+        "n": 2
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 2
+      },
+      "monitoring": {
+        "n": 1
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 2
+      }
+    },
+    "Other": {
+      "tools": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "analysis": {
+        "n": 1
+      },
+      "modeling": {
+        "n": 2
+      },
+      "numarray": {
+        "n": 1
+      },
+      "visualization": {
+        "n": 1
+      }
+    },
+    "Software development": {
+      "distribution": {
+        "n": 1
+      },
+      "documentation": {
+        "n": 1
+      },
+      "testing": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Twisted": {
+        "n": 1,
+        "caption": "There are actually 9 talks that use Twisted, from the Lore document generation framework to Twisted Reality's virtual worlds, but just 1 specifically about how to use Twisted."
+      },
+      "Zope": {
+        "n": 5
+      },
+      "GUI app": {
+        "n": 1
+      },
+      "network communication": {
+        "n": 4
+      },
+      "web": {
+        "n": 2
+      }
+    }
+  },
+  "2004": {
+    "Best practices": {
+      "education": {
+        "n": 3
+      },
+      "performance": {
+        "n": 3
+      },
+      "productivity": {
+        "n": 2
+      },
+      "use case": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 1
+      },
+      "ORMs": {
+        "n": 1,
+        "caption": "\"Twelve thousand test cases and counting\" may be the first attempt at a database abstraction layer."
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 1,
+        "caption": "\"IronPython: a fresh look at Python on .Net\" kicks off (after a year lull) a consistent dialogue of 2-3 talks per year through 2009. In 2010-2011 there are only one talk per year; perhaps a result of Python 3."
+      },
+      "PyPy": {
+        "n": 1
+      },
+      "multi-language": {
+        "n": 2
+      },
+      "other implementations": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 3
+      }
+    },
+    "Python language": {
+      "core": {
+        "n": 1
+      },
+      "data model": {
+        "n": 2
+      },
+      "iterators": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "analysis": {
+        "n": 1
+      },
+      "modeling": {
+        "n": 3
+      },
+      "text": {
+        "n": 2,
+        "caption": "Text analytics, both spam filtering and the NLTK, appear."
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 1
+      },
+      "distribution": {
+        "n": 1,
+        "caption": "\"Distribution basics - using 'distutils'\" introduces `distutils`."
+      },
+      "documentation": {
+        "n": 1
+      },
+      "testing": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Twisted": {
+        "n": 1
+      },
+      "Zope": {
+        "n": 2
+      },
+      "GUI app": {
+        "n": 2
+      },
+      "network communication": {
+        "n": 1
+      },
+      "web": {
+        "n": 5
+      }
+    }
+  },
+  "2005": {
+    "Best practices": {
+      "(meta)classes": {
+        "n": 1
+      },
+      "api design": {
+        "n": 1
+      },
+      "concurrency": {
+        "n": 1
+      },
+      "education": {
+        "n": 2
+      },
+      "performance": {
+        "n": 3
+      },
+      "use case": {
+        "n": 2
+      }
+    },
+    "Community": {
+      "python": {
+        "n": 1,
+        "caption": "The PSF introduces itself."
+      }
+    },
+    "Data": {
+      "ORMs": {
+        "n": 2
+      },
+      "preparation": {
+        "n": 3
+      }
+    },
+    "Implementation/multi-language": {
+      "PyPy": {
+        "n": 1
+      },
+      "multi-language": {
+        "n": 5,
+        "caption": "Python gets an implementation for Nokia's Series 60 smartphone plus a bridge to Objective C. A couple Python-as-glue use cases round this out."
+      },
+      "other platform": {
+        "n": 1,
+        "link_caption": "multi-language"
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 1
+      },
+      "scaling data pipeline": {
+        "n": 1,
+        "caption": "Months after MapReduce is first introduced, \"Query-directed Data Mining using Python and Parallel Processing\" is the first infrastructure talk specifically about data processing; an area of continued interest."
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "tools": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "Decimal": {
+        "n": 2
+      },
+      "data model": {
+        "n": 3
+      },
+      "iterators": {
+        "n": 1
+      },
+      "time": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "NumPy": {
+        "n": 1
+      },
+      "visualization": {
+        "n": 1,
+        "caption": "\"Matplotlib - from brain surgery to rocket science.\" introduces Matplotlib."
+      }
+    },
+    "Software development": {
+      "documentation": {
+        "n": 1
+      },
+      "testing": {
+        "n": 3
+      },
+      "workflow": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Twisted": {
+        "n": 3
+      },
+      "WSGI": {
+        "n": 1
+      },
+      "Zope": {
+        "n": 4
+      },
+      "GUI app": {
+        "n": 8,
+        "caption": "3 platform/tool talks, 1 Chandler talk, and 4 businesses showcasing home-grown solutions to their specific problem. Usually half the category is tools and half case studies."
+      },
+      "network communication": {
+        "n": 3
+      },
+      "routing": {
+        "n": 1
+      },
+      "web": {
+        "n": 3
+      }
+    }
+  },
+  "2006": {
+    "Best practices": {
+      "api design": {
+        "n": 1
+      },
+      "education": {
+        "n": 1
+      },
+      "use case": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "funding": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "ORMs": {
+        "n": 1
+      },
+      "preparation": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 2
+      },
+      "PyPy": {
+        "n": 2
+      },
+      "Stackless": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "monitoring": {
+        "n": 1
+      },
+      "scaling web traffic": {
+        "n": 2
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 3
+      }
+    },
+    "Other": {
+      "mini language": {
+        "n": 3,
+        "caption": "\"Introduction to Pyparsing\" introduces a toolkit for parsing. This and similar tools capitalize on Python's string tools to make command-line games, shells, and even control interfaces to larger programs over the years."
+      },
+      "tools": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "Decimal": {
+        "n": 1
+      },
+      "core": {
+        "n": 1
+      },
+      "memory model": {
+        "n": 1
+      },
+      "unicode": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "machine learning": {
+        "n": 2,
+        "caption": "Machine learning also appears early, with machine learning over images in \"pysense: Humanoid Robots, a Wearable System, and Python,\" and  \"Simplifying Red-Black Trees.\""
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 1
+      },
+      "distribution": {
+        "n": 2,
+        "caption": "Python gets eggs, with \"Building Pluggable Software with Eggs,\" and the talk is so popular attendance spills out into the hallway. The next year, all of the distribution talks are about eggs."
+      },
+      "documentation": {
+        "n": 2
+      },
+      "testing": {
+        "n": 2
+      },
+      "version control": {
+        "n": 3
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 2,
+        "caption": "Django and TurboGears are both in multiple talks, taking advantage of WSGI."
+      },
+      "TurboGears/Pylons": {
+        "n": 2,
+        "link_caption": "Django"
+      },
+      "Zope": {
+        "n": 3
+      },
+      "encoding + localization": {
+        "n": 1
+      },
+      "GUI app": {
+        "n": 4
+      },
+      "network communication": {
+        "n": 2
+      }
+    }
+  },
+  "2007": {
+    "Best practices": {
+      "education": {
+        "n": 4
+      },
+      "performance": {
+        "n": 3
+      },
+      "use case": {
+        "n": 3
+      }
+    },
+    "Community": {
+      "advocacy": {
+        "n": 1
+      },
+      "copyright": {
+        "n": 1
+      },
+      "events": {
+        "n": 1
+      },
+      "funding": {
+        "n": 1
+      },
+      "outreach": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "SQLAlchemy": {
+        "n": 2,
+        "caption": "SQLAlchemy is introduced, and quickly becomes the de facto standard."
+      },
+      "acquisition": {
+        "n": 2
+      },
+      "preparation": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 2
+      },
+      "Jython": {
+        "n": 2
+      },
+      "PyPy": {
+        "n": 1
+      },
+      "Stackless": {
+        "n": 2
+      },
+      "other implementations": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "continuous deployment": {
+        "n": 3
+      },
+      "scaling web traffic": {
+        "n": 1
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "art": {
+        "n": 1
+      },
+      "mini language": {
+        "n": 3
+      },
+      "tools": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 1
+      },
+      "core": {
+        "n": 1
+      },
+      "iterators": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "IPython/Jupyter": {
+        "n": 1
+      },
+      "NumPy": {
+        "n": 1
+      },
+      "analysis": {
+        "n": 1
+      },
+      "neural net": {
+        "n": 1,
+        "caption": "First neural net: \"Topographica: Python used for Computational Neuroscience.\""
+      },
+      "parallel": {
+        "n": 1
+      },
+      "symbolic": {
+        "n": 1
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 2
+      },
+      "distribution": {
+        "n": 3
+      },
+      "human factors": {
+        "n": 1
+      },
+      "testing": {
+        "n": 3,
+        "caption": "After the \"Testing Tools Panel,\" testing grows from 2-3 talks per conference to a consistent 5+, and testing is broadly present in all of web development, devops, and scientific applications."
+      },
+      "workflow": {
+        "n": 2
+      }
+    },
+    "Web/Applications": {
+      "WSGI": {
+        "n": 1
+      },
+      "Zope": {
+        "n": 2
+      },
+      "encoding + localization": {
+        "n": 1
+      },
+      "GUI app": {
+        "n": 4
+      },
+      "censorship": {
+        "n": 1
+      },
+      "security": {
+        "n": 1
+      },
+      "web": {
+        "n": 2,
+        "caption": "The Web Frameworks Panel includes Zope, CherryPy, TurboGears, Django, Pylons, Quixote, Twisted web and web.py."
+      }
+    }
+  },
+  "2008": {
+    "Best practices": {
+      "api design": {
+        "n": 1
+      },
+      "concurrency": {
+        "n": 3
+      },
+      "education": {
+        "n": 4
+      },
+      "idioms + style": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "events": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 2
+      },
+      "SQLAlchemy": {
+        "n": 2
+      },
+      "acquisition": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 3
+      },
+      "Jython": {
+        "n": 2
+      },
+      "PyPy": {
+        "n": 1
+      },
+      "Stackless": {
+        "n": 1
+      },
+      "multi-language": {
+        "n": 1
+      },
+      "other implementations": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 3,
+        "link_caption": "scaling web traffic"
+      },
+      "scaling web traffic": {
+        "n": 5,
+        "caption": "\"Supervisor as a platform\" introduces Supervisor as a means to programmatically manage servers at the same time as \"Python in system administration\" and continued interest in Agile (3 talks). Talks on AWS and Elastic Compute round out the growing community exploration of cloud services (AWS launched in 2006)."
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "robotics": {
+        "n": 2,
+        "caption": "\"Python-powered multitouch\" and a demo of an interactive Halloween activity are the first PyCon presentations of Python-controlled sensors."
+      },
+      "tools": {
+        "n": 2
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 2
+      },
+      "core": {
+        "n": 1
+      },
+      "import": {
+        "n": 1
+      },
+      "iterators": {
+        "n": 1
+      },
+      "regex": {
+        "n": 1
+      },
+      "unicode": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "visualization": {
+        "n": 1
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 1
+      },
+      "testing": {
+        "n": 4
+      },
+      "workflow": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 4,
+        "caption": "Two years after being introduced, people are sharing other aspects of and uses for both Django and TurboGears."
+      },
+      "TurboGears/Pylons": {
+        "n": 2,
+        "link_caption": "Django"
+      },
+      "Zope": {
+        "n": 2
+      },
+      "GUI app": {
+        "n": 3
+      },
+      "web": {
+        "n": 1
+      }
+    }
+  },
+  "2009": {
+    "Best practices": {
+      "api design": {
+        "n": 1,
+        "caption": "\"Plugins and monkeypatching: increasing flexibility, dealing with inflexibility\" shows some API pain points."
+      },
+      "concurrency": {
+        "n": 2
+      },
+      "education": {
+        "n": 3
+      },
+      "idioms + style": {
+        "n": 2
+      },
+      "performance": {
+        "n": 2
+      },
+      "productivity": {
+        "n": 1
+      },
+      "self improvement": {
+        "n": 1
+      },
+      "use case": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "advocacy": {
+        "n": 2
+      },
+      "events": {
+        "n": 1
+      },
+      "python": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 2
+      },
+      "SQLAlchemy": {
+        "n": 1
+      },
+      "acquisition": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 3
+      },
+      "Jython": {
+        "n": 2
+      },
+      "PyPy": {
+        "n": 1
+      },
+      "all interpreters": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 2
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "config": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 3
+      },
+      "scaling data pipeline": {
+        "n": 1
+      },
+      "scaling web traffic": {
+        "n": 1
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 2
+      }
+    },
+    "Other": {
+      "tools": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 1
+      },
+      "core": {
+        "n": 1
+      },
+      "data model": {
+        "n": 4
+      }
+    },
+    "Science": {
+      "machine learning": {
+        "n": 1,
+        "caption": "\"Easy AI with Python\" describes simple machine learning with short Python codes."
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 2
+      },
+      "distribution": {
+        "n": 5,
+        "caption": "Distribution talks now are about platform-dependent issues; one is about Windows, one is about Linux builds, and one is about zc.buildout, Zope's solution (kind of like Conda or Make); every one has a different solution."
+      },
+      "documentation": {
+        "n": 2
+      },
+      "human factors": {
+        "n": 1
+      },
+      "testing": {
+        "n": 5
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 4
+      },
+      "TurboGears/Pylons": {
+        "n": 2
+      },
+      "Zope": {
+        "n": 2
+      },
+      "GUI app": {
+        "n": 3
+      },
+      "network communication": {
+        "n": 2
+      },
+      "security": {
+        "n": 1
+      },
+      "web": {
+        "n": 2
+      }
+    }
+  },
+  "2010": {
+    "Best practices": {
+      "api design": {
+        "n": 1
+      },
+      "concurrency": {
+        "n": 4
+      },
+      "education": {
+        "n": 2
+      },
+      "idioms + style": {
+        "n": 3
+      },
+      "performance": {
+        "n": 1
+      },
+      "productivity": {
+        "n": 1
+      },
+      "use case": {
+        "n": 3
+      }
+    },
+    "Community": {
+      "events": {
+        "n": 2
+      },
+      "outreach": {
+        "n": 1
+      },
+      "python": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 2,
+        "caption": "\"To relate or not to relate, that is the question,\" explores \"big data\" NOSQL for the first time with Cassandra, MongoDB, and Couch."
+      },
+      "acquisition": {
+        "n": 2
+      },
+      "best practice": {
+        "n": 1
+      },
+      "database": {
+        "n": 2
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 2
+      },
+      "Jython": {
+        "n": 1
+      },
+      "PyPy": {
+        "n": 1
+      },
+      "all interpreters": {
+        "n": 1
+      },
+      "multi-language": {
+        "n": 3
+      },
+      "other implementations": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 3
+      },
+      "scaling data pipeline": {
+        "n": 1
+      },
+      "scaling web traffic": {
+        "n": 3
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 2
+      }
+    },
+    "Other": {
+      "art": {
+        "n": 3
+      },
+      "mini language": {
+        "n": 3
+      },
+      "robotics": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 1
+      },
+      "GIL": {
+        "n": 1
+      },
+      "containers": {
+        "n": 2
+      },
+      "core": {
+        "n": 1
+      },
+      "data model": {
+        "n": 3
+      },
+      "import": {
+        "n": 1
+      },
+      "strings": {
+        "n": 1
+      },
+      "unittest": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "NumPy": {
+        "n": 1
+      },
+      "analysis": {
+        "n": 1
+      },
+      "text": {
+        "n": 1,
+        "caption": "\"The Python and the Elephant\" performs text analytics at scale over Hadoop."
+      }
+    },
+    "Software development": {
+      "distribution": {
+        "n": 3
+      },
+      "testing": {
+        "n": 4
+      },
+      "version control": {
+        "n": 2
+      },
+      "workflow": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 4
+      },
+      "TurboGears/Pylons": {
+        "n": 3
+      },
+      "WSGI": {
+        "n": 1
+      },
+      "Zope": {
+        "n": 2
+      },
+      "GUI app": {
+        "n": 1
+      },
+      "network communication": {
+        "n": 2
+      },
+      "web": {
+        "n": 7
+      }
+    }
+  },
+  "2011": {
+    "Best practices": {
+      "api design": {
+        "n": 3,
+        "caption": "\"API design anti-patterns\" and \"API design: lessons learned\" both address API design, possibly of interest after the `requests` library shows what a beautiful API can be."
+      },
+      "concurrency": {
+        "n": 6
+      },
+      "education": {
+        "n": 2
+      },
+      "idioms + style": {
+        "n": 2
+      },
+      "performance": {
+        "n": 1
+      },
+      "productivity": {
+        "n": 2
+      },
+      "self improvement": {
+        "n": 1
+      },
+      "use case": {
+        "n": 2
+      }
+    },
+    "Community": {
+      "events": {
+        "n": 1
+      },
+      "outreach": {
+        "n": 2
+      },
+      "python": {
+        "n": 2
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 2
+      },
+      "acquisition": {
+        "n": 1
+      },
+      "best practice": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "IronPython": {
+        "n": 1
+      },
+      "PyPy": {
+        "n": 1
+      },
+      "all interpreters": {
+        "n": 1
+      },
+      "multi-language": {
+        "n": 2
+      },
+      "other implementations": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "config": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 3
+      },
+      "scaling data pipeline": {
+        "n": 4
+      },
+      "scaling web traffic": {
+        "n": 2
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 2
+      }
+    },
+    "Other": {
+      "art": {
+        "n": 1
+      },
+      "fun": {
+        "n": 2
+      },
+      "tools": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 2
+      },
+      "abstract syntax tree": {
+        "n": 1
+      },
+      "containers": {
+        "n": 1
+      },
+      "data model": {
+        "n": 2
+      },
+      "memory model": {
+        "n": 1
+      },
+      "standard library": {
+        "n": 2
+      },
+      "unicode": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "analysis": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 3
+      },
+      "modeling": {
+        "n": 2
+      },
+      "parallel": {
+        "n": 1,
+        "caption": "\"Introduction to Parallel Computing on an NVIDIA GPU using PyCUDA.\""
+      },
+      "text": {
+        "n": 3
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 1
+      },
+      "debugging": {
+        "n": 1
+      },
+      "distribution": {
+        "n": 2,
+        "caption": "\"Reverse-engineering Ian Bicking's brain: inside pip and virtualenv,\" makes it seem like the community has settled on pip and virtualenv for managing distributions. The other talk is about distutils2."
+      },
+      "documentation": {
+        "n": 1
+      },
+      "testing": {
+        "n": 2
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 4
+      },
+      "Flask": {
+        "n": 1,
+        "link_caption": "web"
+      },
+      "Tornado": {
+        "n": 1
+      },
+      "TurboGears/Pylons": {
+        "n": 1
+      },
+      "WSGI": {
+        "n": 1
+      },
+      "Zope": {
+        "n": 2 
+      },
+      "Pyramid": {
+        "n": 1, 
+        "link_caption": "web"
+      },
+      "network communication": {
+        "n": 2
+      },
+      "security": {
+        "n": 3
+      },
+      "web": {
+        "n": 2,
+        "caption": "\"A (biased) survey of the Python web\"  includes the originals, plus the new microframeworks. Pyramid (\"The Pyramid FAQ.\") and Flask (\"Opening the Flask.\") also make their first appearances."
+      }
+    }
+  },
+  "2012": {
+    "Best practices": {
+      "(meta)classes": {
+        "n": 2
+      },
+      "concurrency": {
+        "n": 2
+      },
+      "idioms + style": {
+        "n": 2
+      },
+      "use case": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "events": {
+        "n": 1
+      },
+      "funding": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 2
+      },
+      "Postgres": {
+        "n": 1
+      },
+      "SQLAlchemy": {
+        "n": 2
+      },
+      "preparation": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "Jython": {
+        "n": 1
+      },
+      "PyPy": {
+        "n": 2
+      },
+      "multi-language": {
+        "n": 3
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 2
+      },
+      "continuous deployment": {
+        "n": 2
+      },
+      "messaging": {
+        "n": 1
+      },
+      "monitoring": {
+        "n": 2
+      },
+      "scaling data pipeline": {
+        "n": 2
+      },
+      "scaling web traffic": {
+        "n": 4
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "art": {
+        "n": 2
+      },
+      "mini language": {
+        "n": 2
+      },
+      "robotics": {
+        "n": 4,
+        "caption": "\"Python for makers\", \"Python meets the Arduino,\" and two other talks on embedded systems show Python has arrived in the maker world. Next year will be the first presentation related to the Internet of Things, and from this point on there will be steady innovation from 3-6 talks per year in this space."
+      },
+      "tools": {
+        "n": 2
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 1
+      },
+      "core": {
+        "n": 1
+      },
+      "data model": {
+        "n": 4
+      },
+      "iterators": {
+        "n": 1
+      },
+      "standard library": {
+        "n": 1
+      },
+      "time": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "GIS": {
+        "n": 2
+      },
+      "IPython/Jupyter": {
+        "n": 1
+      },
+      "Pandas": {
+        "n": 1
+      },
+      "analysis": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 2
+      },
+      "parallel": {
+        "n": 1
+      },
+      "symbolic": {
+        "n": 1
+      },
+      "text": {
+        "n": 2
+      },
+      "visualization": {
+        "n": 2
+      }
+    },
+    "Software development": {
+      "debugging": {
+        "n": 1
+      },
+      "distribution": {
+        "n": 2
+      },
+      "documentation": {
+        "n": 1
+      },
+      "human factors": {
+        "n": 1
+      },
+      "testing": {
+        "n": 6,
+        "caption": "Two talks about using `mock`, one on pytest, one on PDB, and two on optimizing suite tests for speed are a good snapshot of the breadth of topics in testing."
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 3
+      },
+      "Pyramid": {
+        "n": 1
+      },
+      "encoding + localization": {
+        "n": 2
+      },
+      "GUI app": {
+        "n": 1
+      },
+      "network communication": {
+        "n": 1
+      },
+      "security": {
+        "n": 3
+      },
+      "web": {
+        "n": 5
+      }
+    }
+  },
+  "2013": {
+    "Best practices": {
+      "(meta)classes": {
+        "n": 1
+      },
+      "api design": {
+        "n": 2
+      },
+      "concurrency": {
+        "n": 3
+      },
+      "education": {
+        "n": 5,
+        "caption": "The first year of the PyCon Education Summit. Woo!"
+      },
+      "idioms + style": {
+        "n": 5
+      },
+      "performance": {
+        "n": 4
+      },
+      "self improvement": {
+        "n": 2
+      },
+      "time": {
+        "n": 1
+      },
+      "use case": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "copyright": {
+        "n": 2
+      },
+      "events": {
+        "n": 1
+      },
+      "funding": {
+        "n": 2
+      },
+      "outreach": {
+        "n": 3
+      },
+      "python": {
+        "n": 2
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 1
+      },
+      "Postgres": {
+        "n": 2
+      },
+      "SQLAlchemy": {
+        "n": 1
+      },
+      "acquisition": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "Jython": {
+        "n": 2
+      },
+      "all interpreters": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 4
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "config": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 2
+      },
+      "monitoring": {
+        "n": 2
+      },
+      "scaling data pipeline": {
+        "n": 4,
+        "caption": "\"Distributed Coordination with Python\" describes Python plus Zookeeper. Almost every web scaling talk provides a different solution for cluster communication/management. There are also three use cases demonstrating data pipelining, and one elasticsearch example."
+      },
+      "scaling web traffic": {
+        "n": 6,
+        "link_caption": "scaling data pipeline"
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 3
+      }
+    },
+    "Other": {
+      "art": {
+        "n": 2
+      },
+      "fun": {
+        "n": 3
+      },
+      "internet of things": {
+        "n": 1
+      },
+      "mini language": {
+        "n": 1
+      },
+      "robotics": {
+        "n": 2
+      },
+      "tools": {
+        "n": 3
+      }
+    },
+    "Python language": {
+      "2 to 3": {
+        "n": 1
+      },
+      "data model": {
+        "n": 4
+      },
+      "import": {
+        "n": 1
+      },
+      "iterators": {
+        "n": 1
+      },
+      "memory model": {
+        "n": 1
+      },
+      "unicode": {
+        "n": 2
+      }
+    },
+    "Science": {
+      "Pandas": {
+        "n": 1
+      },
+      "analysis": {
+        "n": 1
+      },
+      "parallel": {
+        "n": 1
+      },
+      "text": {
+        "n": 2
+      }
+    },
+    "Software development": {
+      "debugging": {
+        "n": 4
+      },
+      "distribution": {
+        "n": 2
+      },
+      "documentation": {
+        "n": 2
+      },
+      "testing": {
+        "n": 1
+      },
+      "version control": {
+        "n": 2
+      },
+      "workflow": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 4
+      },
+      "Pyramid": {
+        "n": 1
+      },
+      "encoding + localization": {
+        "n": 1
+      },
+      "GUI app": {
+        "n": 1
+      },
+      "network communication": {
+        "n": 1
+      },
+      "routing": {
+        "n": 1
+      },
+      "security": {
+        "n": 3
+      },
+      "web": {
+        "n": 1
+      }
+    }
+  },
+  "2014": {
+    "Best practices": {
+      "2 to 3": {
+        "n": 1
+      },
+      "api design": {
+        "n": 3
+      },
+      "concurrency": {
+        "n": 3
+      },
+      "education": {
+        "n": 3
+      },
+      "performance": {
+        "n": 1
+      },
+      "self improvement": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "diversity": {
+        "n": 2
+      },
+      "events": {
+        "n": 1
+      },
+      "outreach": {
+        "n": 4
+      }
+    },
+    "Data": {
+      "Postgres": {
+        "n": 2
+      },
+      "SQLAlchemy": {
+        "n": 3,
+        "caption": "The community has had enough experience with messy data that master data management appears, with \"Creating Bomb-Proof Data Importers,\" and \"Sane schema migrations with Alembic and SQLAlchemy.\""
+      },
+      "acquisition": {
+        "n": 3,
+        "link_caption": "SQLAlchemy"
+      }
+    },
+    "Implementation/multi-language": {
+      "multi-language": {
+        "n": 3
+      },
+      "other implementations": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 2
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 2,
+        "caption": "\"Introduction to Docker\" is Docker's debut at PyCon. Docker is often not the primary topic of a talk, but is mentioned in 5 abstracts in 2015 and 2016, and in 7 abstracts in 2017 and 2018, plus it played a supporting role in Kelsey Hightower's voice-activated cluster launch in 2017."
+      },
+      "messaging": {
+        "n": 1
+      },
+      "scaling data pipeline": {
+        "n": 3
+      },
+      "scaling web traffic": {
+        "n": 5
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "fun": {
+        "n": 2
+      },
+      "games": {
+        "n": 1
+      },
+      "internet of things": {
+        "n": 2
+      },
+      "robotics": {
+        "n": 3
+      }
+    },
+    "Python language": {
+      "containers": {
+        "n": 1
+      },
+      "data model": {
+        "n": 1
+      },
+      "import": {
+        "n": 1
+      },
+      "memory model": {
+        "n": 2
+      },
+      "regex": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "GIS": {
+        "n": 1
+      },
+      "IPython/Jupyter": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 2
+      },
+      "text": {
+        "n": 1
+      },
+      "visualization": {
+        "n": 1
+      }
+    },
+    "Software development": {
+      "distribution": {
+        "n": 4
+      },
+      "documentation": {
+        "n": 1
+      },
+      "human factors": {
+        "n": 1
+      },
+      "testing": {
+        "n": 4
+      },
+      "workflow": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 4
+      },
+      "Flask": {
+        "n": 3
+      },
+      "encoding + localization": {
+        "n": 2
+      },
+      "network communication": {
+        "n": 1
+      },
+      "security": {
+        "n": 6,
+        "caption": "Days after Heartbleed is discovered, and about a year after the PyCA is formed, \"The sorry state of SSL\" and \"The state of crypto in Python\" address the community's renewed interest in security. Four other talks at a range of levels, including \"Pickles are for Delis\" round out this group." 
+      },
+      "web": {
+        "n": 3
+      }
+    }
+  },
+  "2015": {
+    "Best practices": {
+      "2 to 3": {
+        "n": 1
+      },
+      "api design": {
+        "n": 2
+      },
+      "concurrency": {
+        "n": 2
+      },
+      "education": {
+        "n": 1
+      },
+      "idioms + style": {
+        "n": 4,
+        "caption": "\"Beyond PEP 8\" knocks it out of the park. Like usual, this category is a mix of Python and other language styles."
+      },
+      "performance": {
+        "n": 3
+      },
+      "productivity": {
+        "n": 1
+      },
+      "self improvement": {
+        "n": 4
+      },
+      "use case": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "diversity": {
+        "n": 2
+      },
+      "outreach": {
+        "n": 2
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 1
+      },
+      "ORMs": {
+        "n": 1
+      },
+      "acquisition": {
+        "n": 2
+      },
+      "best practice": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "Jython": {
+        "n": 1,
+        "link_caption": "PyPy"
+      },
+      "PyPy": {
+        "n": 1,
+        "caption": "\"Getting to Jython 2.7 and beyond\" is the last talk about the old alternate Python implementations. The PyPy one is \"PyPy.js: What? How? Why?\" Was Python 3 an insurmountable obstacle? Can we help somehow?"
+      },
+      "multi-language": {
+        "n": 1
+      },
+      "other implementations": {
+        "n": 1
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 2
+      },
+      "config": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 3
+      },
+      "monitoring": {
+        "n": 3
+      },
+      "scaling data pipeline": {
+        "n": 1
+      },
+      "scaling web traffic": {
+        "n": 4
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "internet of things": {
+        "n": 1
+      },
+      "robotics": {
+        "n": 2
+      }
+    },
+    "Python language": {
+      "data model": {
+        "n": 3
+      },
+      "memory model": {
+        "n": 3
+      },
+      "unicode": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "IPython/Jupyter": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 4
+      },
+      "neural net": {
+        "n": 1
+      },
+      "symbolic": {
+        "n": 1
+      },
+      "text": {
+        "n": 1
+      },
+      "visualization": {
+        "n": 1
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 1
+      },
+      "debugging": {
+        "n": 2
+      },
+      "distribution": {
+        "n": 2,
+        "caption": "\"Rethinking packaging, development and deployment\" and a talk about wheels on Linux come after 2014's \"What is coming in Python packaging\", and a panel discussing the same in 2013; have we converged? (except for Conda?)"
+      },
+      "human factors": {
+        "n": 2
+      },
+      "testing": {
+        "n": 7
+      },
+      "version control": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 1
+      },
+      "encoding + localization": {
+        "n": 1
+      },
+      "GUI app": {
+        "n": 1
+      },
+      "security": {
+        "n": 5
+      },
+      "censorship": {
+        "n": 1
+      },
+      "WSGI": {
+        "n": 1
+      },
+      "web": {
+        "n": 4
+      }
+    }
+  },
+  "2016": {
+    "Best practices": {
+      "2 to 3": {
+        "n": 1
+      },
+      "api design": {
+        "n": 1
+      },
+      "concurrency": {
+        "n": 3
+      },
+      "education": {
+        "n": 2
+      },
+      "idioms + style": {
+        "n": 3
+      },
+      "performance": {
+        "n": 3
+      },
+      "self improvement": {
+        "n": 4
+      },
+      "use case": {
+        "n": 3
+      }
+    },
+    "Community": {
+      "copyright": {
+        "n": 1
+      },
+      "diversity": {
+        "n": 2
+      },
+      "funding": {
+        "n": 1,
+        "caption": "\"Non-profit centers of FLOSS development\" advocates for small projects to attach to non-profit corporations as a way to sustain Open Source development. NumFocus formed around this time, in late 2011 or early 2012, and the success of NumFocus and the PyData conferences shows the viability of this approach."
+      },
+      "outreach": {
+        "n": 2
+      }
+    },
+    "Data": {
+      "Postgres": {
+        "n": 1
+      },
+      "best practice": {
+        "n": 1
+      },
+      "database": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "multi-language": {
+        "n": 1
+      },
+      "other implementations": {
+        "n": 1
+      },
+      "other platform": {
+        "n": 2,
+        "caption": "\"A tale of two cellphones: Python on Android and iOS\" introduces the BeeWare project: tools and libraries for cross-platform applications. It's the latest of many libraries to try this, but perhaps the new style of loosely connected modular components under a bigger umbrella will be more able to adapt to platform changes."
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 2,
+        "caption": "\"The cobbler's children have no shoes\" cites continuous integration as a major changing point in how DevOps worked, and then highlights pain points for future improvement. "
+      },
+      "config": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 2
+      },
+      "monitoring": {
+        "n": 1
+      },
+      "scaling data pipeline": {
+        "n": 3
+      },
+      "scaling web traffic": {
+        "n": 2
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 5
+      }
+    },
+    "Other": {
+      "fun": {
+        "n": 3
+      },
+      "internet of things": {
+        "n": 2
+      },
+      "mini language": {
+        "n": 2
+      },
+      "robotics": {
+        "n": 1
+      },
+      "tools": {
+        "n": 1
+      }
+    },
+    "Python language": {
+      "GIL": {
+        "n": 1
+      },
+      "data model": {
+        "n": 3
+      },
+      "memory model": {
+        "n": 2
+      }
+    },
+    "Science": {
+      "IPython/Jupyter": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 5
+      },
+      "modeling": {
+        "n": 1
+      },
+      "neural net": {
+        "n": 1
+      },
+      "text": {
+        "n": 2
+      },
+      "visualization": {
+        "n": 1
+      }
+    },
+    "Software development": {
+      "distribution": {
+        "n": 3
+      },
+      "human factors": {
+        "n": 3
+      },
+      "testing": {
+        "n": 5
+      },
+      "version control": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 2
+      },
+      "Flask": {
+        "n": 1
+      },
+      "GUI app": {
+        "n": 2
+      },
+      "network communication": {
+        "n": 1
+      },
+      "security": {
+        "n": 4
+      },
+      "web": {
+        "n": 2
+      }
+    }
+  },
+  "2017": {
+    "Best practices": {
+      "2 to 3": {
+        "n": 1
+      },
+      "api design": {
+        "n": 3
+      },
+      "concurrency": {
+        "n": 3
+      },
+      "idioms + style": {
+        "n": 5
+      },
+      "performance": {
+        "n": 2
+      },
+      "productivity": {
+        "n": 1
+      },
+      "self improvement": {
+        "n": 1
+      },
+      "use case": {
+        "n": 2
+      }
+    },
+    "Community": {
+      "copyright": {
+        "n": 1
+      },
+      "diversity": {
+        "n": 1
+      }
+    },
+    "Data": {
+      "SQLAlchemy": {
+        "n": 1
+      },
+      "acquisition": {
+        "n": 2
+      },
+      "preparation": {
+        "n": 1
+      }
+    },
+    "Implementation/multi-language": {
+      "multi-language": {
+        "n": 2
+      },
+      "other implementations": {
+        "n": 2
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "continuous deployment": {
+        "n": 1
+      },
+      "monitoring": {
+        "n": 1
+      },
+      "scaling data pipeline": {
+        "n": 3
+      },
+      "scaling web traffic": {
+        "n": 4
+      }
+    },
+    "Keynotes": {
+      "keynotes": {
+        "n": 4
+      }
+    },
+    "Other": {
+      "games": {
+        "n": 1
+      },
+      "internet of things": {
+        "n": 1
+      },
+      "mini language": {
+        "n": 1
+      },
+      "robotics": {
+        "n": 2
+      }
+    },
+    "Python language": {
+      "Python 3.6": {
+        "n": 3
+      },
+      "GIL": {
+        "n": 2
+      },
+      "containers": {
+        "n": 2
+      },
+      "data model": {
+        "n": 4
+      },
+      "memory model": {
+        "n": 1
+      },
+      "regex": {
+        "n": 1
+      },
+      "time": {
+        "n": 1
+      },
+      "unicode": {
+        "n": 1
+      }
+    },
+    "Science": {
+      "analysis": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 7,
+        "link_caption": "parallel"
+      },
+      "neural net": {
+        "n": 3
+      },
+      "parallel": {
+        "n": 1,
+        "caption": "Half examples, such as \"Re-programming the human genome with Python,\" and half tools, like \"Probabilistic programming with PyMC3,\" the machine learning talks have grown from a steady 2 or 3 since 2011 to 7 now. Plus \"Dask: A Pythonic Distributed Data Science Framework\" as a drop-in parallel (multicore or cluster) replacement for popular existing data structures and algorithms."
+      },
+      "text": {
+        "n": 1
+      },
+      "visualization": {
+        "n": 2,
+        "caption": "Visualization is under active development, and \"The Python visualization landscape\" surveys the field, including Matplotlib, plus newcomers Bokeh, Seaborn, and Plot.ly."
+      }
+    },
+    "Software development": {
+      "debugging": {
+        "n": 1
+      },
+      "distribution": {
+        "n": 3
+      },
+      "documentation": {
+        "n": 1
+      },
+      "human factors": {
+        "n": 2
+      },
+      "testing": {
+        "n": 5
+      }
+    },
+    "Web/Applications": {
+      "WSGI": {
+        "n": 1
+      },
+      "encoding + localization": {
+        "n": 1
+      },
+      "GUI app": {
+        "n": 1
+      },
+      "network communication": {
+        "n": 2
+      },
+      "security": {
+        "n": 3
+      },
+      "web": {
+        "n": 2
+      }
+    }
+  },
+  "2018": {
+    "Best practices": {
+      "2 to 3": {
+        "n": 1
+      },
+      "api design": {
+        "n": 2
+      },
+      "concurrency": {
+        "n": 3
+      },
+      "idioms + style": {
+        "n": 3
+      },
+      "performance": {
+        "n": 3
+      },
+      "productivity": {
+        "n": 1
+      },
+      "self improvement": {
+        "n": 3
+      },
+      "time": {
+        "n": 1
+      }
+    },
+    "Community": {
+      "advocacy": {
+        "n": 1
+      },
+      "diversity": {
+        "n": 1
+      },
+      "events": {
+        "n": 1
+      },
+      "outreach": {
+        "n": 2
+      },
+      "python": {
+        "n": 2
+      }
+    },
+    "Data": {
+      "NOSQL": {
+        "n": 1
+      },
+      "best practice": {
+        "n": 3
+      }
+    },
+    "Implementation/multi-language": {
+      "multi-language": {
+        "n": 4
+      },
+      "other platform": {
+        "n": 2
+      }
+    },
+    "Infrastructure": {
+      "best practice": {
+        "n": 1
+      },
+      "messaging": {
+        "n": 1
+      },
+      "scaling data pipeline": {
+        "n": 2
+      },
+      "scaling web traffic": {
+        "n": 1
+      }
+    },
+    "Other": {
+      "mini language": {
+        "n": 1
+      },
+      "robotics": {
+        "n": 1
+      },
+      "tools": {
+        "n": 2
+      }
+    },
+    "Python language": {
+      "Python 3: ten years later": {
+        "n": 1
+      },
+      "abstract syntax tree": {
+        "n": 1
+      },
+      "core": {
+        "n": 1
+      },
+      "data model": {
+        "n": 1
+      },
+      "import": {
+        "n": 1
+      },
+      "memory model": {
+        "n": 2
+      },
+      "standard library": {
+        "n": 2
+      }
+    },
+    "Science": {
+      "analysis": {
+        "n": 1
+      },
+      "machine learning": {
+        "n": 4
+      },
+      "modeling": {
+        "n": 1
+      },
+      "neural net": {
+        "n": 6,
+        "caption": "Neural nets went from one talk in 2015 to six, thanks to TensorFlow, which is used in every one of these talks."
+      },
+      "parallel": {
+        "n": 2
+      },
+      "text": {
+        "n": 1
+      },
+      "visualization": {
+        "n": 3,
+        "caption": "Jake Vanderplas demonstrates Altair, Vega, and Vega-Lite; three more visualization tools."
+      }
+    },
+    "Software development": {
+      "IDEs": {
+        "n": 2
+      },
+      "debugging": {
+        "n": 3
+      },
+      "distribution": {
+        "n": 1
+      },
+      "human factors": {
+        "n": 5,
+        "caption": "There are 5 talks related to collaboration and emotional intelligence this year, from \"Code reviews using art critique principles\" to \"Build teams as an engineer.\" This category has grown consistently since 2014."
+      },
+      "testing": {
+        "n": 5
+      },
+      "workflow": {
+        "n": 1
+      }
+    },
+    "Web/Applications": {
+      "Django": {
+        "n": 1
+      },
+      "WSGI": {
+        "n": 1
+      },
+      "encoding + localization": {
+        "n": 1
+      },
+      "security": {
+        "n": 4
+      },
+      "web": {
+        "n": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+2003 - Guido van Rossum describes new Python features.
+       Paul Graham's Keynote, 'The Hundred Year Language,' predicted the
+       most important feature of a language would be ease of development,
+       not execution speed; partly because of the cost of labor and partly
+       thanks to the rise of parallel computing.
+
+2004 - Guido van Rossum updates everyone on the state of Python.
+       Mitch Kapor, of Lotus 123, talks about Chandler, the virtues of
+       open source, and the Open Source Application Foundation.
+       Bruce Eckel, known for his Java and C++ books, describes
+       how to argue about typing.
+
+2005 - Guido van Rossum gives a Python state of the union.
+       Jim Hugunin talks about Python on .NET, the PSF Board introduces
+       itself, and Greg Stein describes Python at Google.
+
+2006 - Guido van Rossum updates everyone on the state of Python.
+       Alan Runyan and Alexander Limi talk about Plone,
+       and Bram Cohen talks about BitTorrent.
+
+2007 - Guido van Rossum plugs Python 3, Ivan Krstic describes the Power of Dangerous Ideas: Python and One Laptop per Child.
+       Adele Goldberg discusses eLearning in Public Schools, and 
+       Robert M "r0ml" Lefkowitz talks about the Importance of Programming Literacy.
+
+2008 - Guido van Rossum plugs Python 3, Van Lindberg discusses Intellectual Property and Open Source,
+       Mark Hammond talks about Python at Mozilla,
+       Chris Hagner talks about challenges and successes of Python at White Oak Technolgies,
+       and Brian W Fitzpatrick about how hiding complexity behind simple design.
+
+2009 - Guido van Rossum updates everyone on the state of Python.
+       Steve Huffman and Alexis Ohanian talk about Reddit's switch to Python.
+
+2010 - Guido van Rossum answers questions from a live Twitter #pycon Q&A.
+       Antonio Rodriguez, relentlessly pursuing opportunities with Python,
+       tells us why the AIs will spare us all.
+       Mark Shuttleworth, founder of Ubuntu, talks about scheduled releases accelerating
+       open source development in 'Cadence, Quality, and Design.'
+
+2011 - Guido van Rossum gives a fireside chat.
+       Hilary Mason describes work at bit.ly and the power of the internet to connect people,
+       specifically with respect to the Arab Spring.
+
+2012 - Guido van Rossum addresses common outsiders' questions and hesitations about Python.
+       Paul Graham of YCombinator describes Frighteningly Ambitious Startup Ideas.
+       Stormy Peters of Mozilla talks about growing the web community and the Python community,
+       and David Beazley tinkers with PyPy.
+
+2013 - Guido van Rossum announces asyncio for the standard library.
+       Eben Upton talks about the Raspberry Pi, and the foundation's goal of providing children
+       around the world the opportunity to learn programming, and
+       Raymond Hettinger describes what makes Python awesome.
+
+2014 - Guido van Rossum answers a Q&A from Twitter.
+       John Perry Barlow, founder of the Electronic Frontier Foundation and songwriter for
+       the Grateful Dead, praises open communities and the open internet.
+       Jessica Mckellar inspires us to reach out to local teachers in Python, the next generation.
+       Fernando Perez describes how OSS and Python are transforming science.
+
+2015 - Guido van Rossum talks about the Python 2 to 3 switch, and
+       ideas on how to maintain continuity when a package is abandoned.
+       Gabriella Coleman discusses Anonymous, hacker culture,
+       and the value of Open Source. Jacob Kaplan-Moss says the talent myth keeps people
+       out of tech.
+       Catherine Bracy, of Code for America, describes how programmers are solving civic
+       problems and rebuilding citizenship for the 21st century.
+
+2016 - Guido van Rossum reflects on how the PEP system makes Python adapt successfully.
+       Cris Ewing talks about Zope and adaptation in OSS.
+       Lorena Barba ties Fernando Flores's conception of structured
+       collaboration to community collaboration tools like GitHub.
+       Parisa Tabriz talks about why embracing hackers can improve security.
+       K Lars Lohn describes how a language's structure influences
+       our problem solving.
+
+2017 - Kelsey Hightower shows us how to voice-launch a cluster using Alexa and AWS.
+       Lisa Guo and Hui Ding describe successes and challenges of the Python 2 to 3 conversion at Instagram.
+       Katy Huff inspires us to join existing open source science projects, and
+       Jake Vanderplas describes the Jupyter and NumFocus ecosystem.
+
+2018 - Our illustrious speakers are Catherine Devlin, Dan Callahan, Qumisha Goss, Brett Cannon, and Ying Li.
+       We don't know what they'll say yet, but are sure it will be filled with
+       wisdom.
+

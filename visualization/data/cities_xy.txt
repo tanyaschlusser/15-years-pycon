@@ -1,0 +1,160 @@
+Pakistan|PK|Lahore|632.778,249.390
+Nigeria|NG|Lagos|458.491,323.770
+Hong Kong|HK|Hong Kong|733.727,277.197
+Lithuania|LT|Kaunas|505.702,171.053
+Colombia|CO|Bogota|263.845,328.998
+Colombia|CO|Medellin|260.120,324.579
+Zimbabwe|ZW|Harare|527.476,394.374
+Slovakia|SK|Bratislava|490.661,195.046
+Israel|IL|Tel Aviv|535.415,247.614
+Namibia|NA|Windhoek|492.436,408.438
+Czech Republic|CZ|Brno|489.363,191.401
+Czech Republic|CZ|Prague|484.139,188.323
+Belarus|BY|Minsk|514.434,174.696
+Sweden|SE|Stockholm|491.488,154.503
+Sweden|SE|Gotheborg|477.640,160.636
+Korea|KR|Seoul|758.953,230.265
+Malaysia|MY|Kuala Lumpur|705.639,333.527
+Iran|IR|Tehran|575.462,236.276
+Bangladesh|BD|Dhaka|674.463,272.964
+Spain|ES|Madrid|441.048,221.023
+Spain|ES|Zaragoza|447.852,216.982
+Spain|ES|Valencia|449.079,224.122
+Spain|ES|Almeria|444.006,232.639
+Spain|ES|Caceres|434.558,224.089
+Spain|ES|Bilbao|442.954,211.643
+Spain|ES|Barcelona|455.240,217.839
+Russia|RU|Yekaterinburg|590.368,163.891
+Russia|RU|Moscow|537.436,167.894
+Philippines|PH|UP Diliman|752.986,300.103
+Philippines|PH|Manila|752.773,300.278
+Philippines|PH|Quezon City|752.907,300.044
+Philippines|PH|Cebu City|760.788,312.760
+Philippines|PH|Cagayan de Oro|762.886,318.185
+Philippines|PH|Makati City|752.883,300.425
+Venezuela|VE|Caracas|282.188,312.295
+Venezuela|VE|Merida|271.309,317.837
+Venezuela|VE|Maracay|280.389,312.992
+Uruguay|UY|Montevideo|312.705,446.372
+Ukraine|UA|Kiev|522.081,187.022
+Ukraine|UA|Lviv|506.849,189.164
+Ukraine|UA|Britania|640.407,258.166
+Taiwan|TW|Taipei|751.411,269.284
+South Africa|ZA|Cape Town|495.106,443.278
+South Africa|ZA|Johannesburg|519.448,419.417
+Canada|CA|Toronto|259.275,210.341
+Canada|CA|Montreal|273.998,204.114
+Japan|JP|Tokyo|791.036,236.276
+Germany|DE|Liepzig|479.141,183.877
+Germany|DE|Koln|466.415,185.293
+Germany|DE|Berlin|481.460,179.670
+Germany|DE|Erlangen|476.065,190.039
+Germany|DE|Munich|477.520,195.080
+Germany|DE|Karlsruhe|469.917,192.063
+Germany|DE|Heidelberg|470.536,190.703
+China|CN|Shanghai|748.705,250.291
+China|CN|Beijing|731.955,222.721
+China|CN|Zhuhai|732.447,277.586
+China|CN|Suzhou|746.510,250.074
+China|CN|Shenzen|733.562,276.777
+China|CN|Hangzhou|745.899,253.267
+China|CN|Guangzhou|731.399,275.008
+Singapore|SG|Singapore|711.116,338.889
+New Zealand|NZ|Waitangi|875.305,447.545
+New Zealand|NZ|Auckland|875.771,452.580
+New Zealand|NZ|Wellington|872.120,466.987
+New Zealand|NZ|Christchurch|864.913,474.414
+New Zealand|NZ|Dunedin|857.513,482.331
+Ireland|IE|Dublin|435.340,176.686
+Finland|FI|Turku|500.922,150.205
+Finlnd|FI|Espoo|506.437,151.130
+Finland|FI|Helsinki|507.086,151.284
+Australia|AU|Sydney|820.303,443.120
+Australia|AU|Hobart|804.601,472.247
+Australia|AU|Brisbane|828.281,423.285
+Australia|AU|Melbourne|802.541,455.662
+Austria|AT|Vienna|488.897,194.838
+India|IN|Bangalore|644.376,305.044
+India|IN|Pune|634.311,288.742
+India|IN|New Delhi|640.573,258.380
+India|IN|Delhi|640.278,258.104
+Argentina|AR|Buenos Aires|307.205,445.423
+Argentina|AR|Cordoba|292.196,435.455
+Argentina|AR|Junin|300.916,445.392
+Argentina|AR|San Luis|287.387,441.328
+Argentina|AR|Rosario|301.249,440.199
+Argentina|AR|Rafaela|298.796,434.926
+Argentina|AR|Mendoza|281.124,440.042
+Argentina|AR|Bahia Blanca|298.824,458.600
+Poland|PL|Rybnik|493.853,188.253
+Poland|PL|Warsaw|499.368,180.708
+Poland|PL|Jaszowiec|494.588,189.655
+Poland|PL|Kielce|498.666,185.541
+Poland|PL|Szczyrk|495.011,189.585
+Poland|PL|Ossa|497.970,182.206
+Brazil|BR|Campinas|333.050,409.487
+Brazil|BR|Brasilia|330.269,388.367
+Brazil|BR|Joinville|329.068,419.721
+Brazil|BR|Rio de Janeiro|342.717,409.487
+Brazil|BR|Caxias do Sul|323.770,428.465
+Brazil|BR|Curitibia|327.900,417.052
+Brazil|BR|Sao Paulo|334.198,411.409
+Brazil|BR|Porto de Galinhas|362.133,367.058
+Brazil|BR|Sao Jose dos Campos|335.970,410.418
+Brazil|BR|Florianopolis|330.006,423.652
+France|FR|Paris|455.574,192.584
+France|FR|Rennes|446.007,195.149
+France|FR|Strasbourg|468.397,193.591
+France|FR|Lyon|461.571,203.232
+France|FR|Pau|449.110,211.509
+France|FR|Provence-Alpes|464.575,209.370
+France|FR|Toulouse|453.460,210.508
+Italy|IT|Firenze|477.047,209.939
+Italy|IT|Florence|477.047,209.939
+Italy|IT|Rimini|480.173,208.934
+Italy|IT|Naples|484.496,219.614
+Italy|IT|Trento|476.566,202.179
+Netherlands|NL|Amsterdam|461.509,180.207
+Netherlands|NL|Arnhem|463.873,181.565
+Netherlands|NL|Groningen|465.392,177.154
+Switzerland|CH|Geneva|464.664,201.736
+Switzerland|CH|Zurich|470.335,197.699
+Belgium|BE|Charleroi|460.487,187.163
+Belgium|BE|Brussels|460.262,185.611
+Hungary|HU|Budapest|495.324,197.287
+Romania|RO|Bucharest|512.598,207.725
+United States|US|Washington, DC|263.035,225.940
+United States|US|Addison|212.521,244.894
+United States|US|Alexandria|268.767,226.118
+United States|US|Austin|209.311,253.267
+United States|US|Chicago|238.626,216.223
+United States|US|Coll Station|213.865,252.365
+United States|US|Columbus|251.804, 222.391
+United States|US|Chapel Hill|263.017, 235.402
+United States|US|Dallas|212.527,245.458
+United States|US|Atlanta|243.294,242.413
+United States|US|Lawrence, KS|218.893,225.746
+United States|US|New Orleans|228.097,254.256
+United States|US|New York|271.038,220.073
+United States|US|San Francisco|152.254,229.622
+United States|US|San Jose|153.305,231.004
+United States|US|Santa Clara|153.140,230.972
+United States|US|Mountain View|152.870,230.844
+United States|US|Philadelphia|267.950,222.558
+United States|US|Seattle|158.880,196.908
+United States|US|Spokane|170.592,196.667
+United States|US|San Diego|162.552,245.645
+United States|US|Pasadena|160.817,241.153
+United States|US|Portland|156.526,204.046
+United States|US|Cleveland|252.794,217.477
+United States|US|Boston|278.773,214.635
+United States|US|Research Triangle|257.544,235.608
+United Kingdom|UK|Edinburgh|442.590,167.193
+United Kingdom|UK|Birmingham|445.562,179.778
+United Kingdom|UK|Bristol|443.900,183.486
+United Kingdom|UK|Cambridge|450.282,180.779
+United Kingdom|UK|Cardiff|442.512,183.380
+United Kingdom|UK|Coventry|446.430,180.064
+United Kingdom|UK|London|449.694,183.273
+United Kingdom|UK|Oxford|447.035,182.420
+Luxembourg|LU|Luxembourg City|464.511,189.970
