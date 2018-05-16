@@ -12,8 +12,9 @@ if you just want to make the plots; just install Processing.
 
 ## Licensed content
 
-Please see the top-level directory *LICENSED_CONTENT* for a list of
-all licensed content used to make this poster.
+Please see the top-level directory
+[LICENSED_CONTENT](https://github.com/tanyaschlusser/15-years-pycon/tree/master/LICENSED_CONTENT)
+for a list of all licensed content used to make this poster.
 
 
 ## Instructions
