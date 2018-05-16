@@ -44,7 +44,7 @@ Additional files are regular `*.py`, and resources are stored in the
 `data/` directory.
 
 To open this project, first open Processing, then navigate to
-*File → Open...* and select `pycon2018_poster.pyde`.
+*File → Open...* and select `visualization.pyde`.
 
 * `datasets.py` imports all of the data for use in the main code.
 * `img.py` imports all of the images and provides a class for easier placement and scaling.
