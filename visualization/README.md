@@ -71,19 +71,19 @@ You may need to edit the PDF to add a scale to the dictionary:
 * Actually the file opens fine without it, but...
 * There is a dictionary at the end, enclosed in double angle braces. It starts
   with `<</Contents ... [etc] >>`
-* Add a final entry to the dictionary. For 125 DPI it is `/UserUnit 0.576``
+* Add a final entry to the dictionary. For 125 DPI it is `/UserUnit 0.576`
  which indicates a scaling factor relative to the standard 72 DPI: (72 / 0.576 = 125).
 * This is what the very end of mine looks like:
 
 ### Before
 
 ```
-<</Contents 280 0 R/Type/Page/Resources<</ProcSet [all kinds of stuff]>>>>/Parent 281 0 R/MediaBox[0 0 8250 5000]>>
+<</Contents 280 0 R/ [all kinds of stuff] /MediaBox[0 0 8250 5000]>>
 ```
 
 ### After
 
 ```
-<</Contents 280 0 R/Type/Page/Resources<</ProcSet [all kinds of stuff]>>>>/Parent 281 0 R/MediaBox[0 0 8250 5000]/UserUnit 0.576>>
+<</Contents 280 0 R/ [all kinds of stuff] /MediaBox[0 0 8250 5000]/UserUnit 0.576>>
 ```
 
