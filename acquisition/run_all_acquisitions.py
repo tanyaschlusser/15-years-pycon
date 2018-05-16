@@ -17,10 +17,10 @@ parentdir = os.path.dirname(currentdir)
 sys.path.insert(0,parentdir) 
 
 
-msg = ("Run the data acquisition? (default, tedious), or just download?\n"
-        "Run data acquisition? [Y]n  ")
+msg = ("Just download the SQLite3 database? (default, easier) or else run the data acquisition (tedious)?\n"
+        "Just download? [Y]n  ")
 response = input(msg)
-download_instead = False if response == '' or response[0] in ('', 'Y', 'y') else True
+download_instead = True if response == '' or response[0] in ('', 'Y', 'y') else False
 destination = os.path.join(parentdir, 'data', 'PyCons.db')
 
 if download_instead:
