@@ -9,7 +9,7 @@ Some content in this repo is not ours, and the MIT license does not apply to
 that content. Please see the directory `LICENSED_CONTENT` for identification
 of licensed content and to read their respective licenses.
 
-## setup
+## Setup
 
 If all you want to do is see how to make the poster, skip to the
 [visualization](#visualization) section.
@@ -54,5 +54,6 @@ expect to spend an hour or two answering 'Y' or 'n' to questions like
 <a href="#visualization" name="visualization">#</a> <b>visualization</b>
 
 This directory is independent of the rest of the project.
-If all you want to do is reproduce the poster, go there and follow
-the instructions. You do not need to `pipenv install` anything.
+If all you want to do is reproduce the poster, go
+[there](https://github.com/tanyaschlusser/15-years-pycon/tree/master/visualization)
+and follow the instructions. You do not need to `pipenv install` anything.
