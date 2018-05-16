@@ -6,4 +6,4 @@ Color scheme is from Cynthia Brewer's colorbrewer2.org
 World map shapefile is from thematicmapping.org/downloads/world_borders.php licensed under CC-BY-SA 3 (converted using Mike Bostock's topoJSON + d3.js)
 Hand-drawn highlighter effect is from Zainab Meraj and collaborators' "Mimicking Hand-Drawn Pencil Lines" (2008)
 Little heart icon is by Kaitlyn, found on sketchport.com/drawing/6752581506301952 licensed under CC-BY-4
-GitHub repo for this project: https://github.com/tanyaschlusser/15-years-pycon
+GitHub repo for this project: github.com/tanyaschlusser/15-years-pycon
