@@ -55,6 +55,7 @@ expect to spend an hour or two answering 'Y' or 'n' to questions like
 
 <a href="#analysis" name="analysis">#</a> <b>analysis</b>
 
+... on its way shortly ... cleaning the code so I'm not embarrassed
 
 <a href="#visualization" name="visualization">#</a> <b>visualization</b>
 
