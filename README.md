@@ -43,6 +43,10 @@ This directory contains a script `run_all_acquisitions.py` to run the data
 acquisition or download the database from Dropbox; it gives an interactive
 choice. It will put the database in `data/PyCons.db`.
 
+(The interactive choice is just to run all the scraping code or to `curl`
+from here: https://www.dropbox.com/s/3muutb5uw15g5tp/PyCons.db?dl=1 if
+you'd rather do that manually.)
+
 Scraping is partly manual to deal with different spellings of names, so
 expect to spend an hour or two answering 'Y' or 'n' to questions like
 'is Enthought' the same as 'Enthought, LLC.'?
