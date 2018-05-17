@@ -299,25 +299,6 @@ def make_bars(conferences, sorted_cats, y):
             legend(cat, cat_positions[cat] + util.Screen.points(20), pointsize=20)
 
 
-@reset_when_done
-def make_topic_cloud(topics, xpos, ybottom, pct_height=.7):
-    y = ybottom
-    for i, topic in enumerate(reversed(datasets.topic_order)):
-        terms = topics[topic]
-        topic_size = math.sqrt(terms['n_talks'])
-        print("{}: {}".format(topic, terms['n_talks']))
-        if terms['n_talks'] < 5:
-            continue
-        dy = height * pct_height * topic_size / 700  # 866 is max n_talks sum
-        for j, term in enumerate(t for t in terms.keys() if t != "n_talks"):
-            ct = terms[term]
-            if ct < 2:
-                continue
-            textSize(int(7 + ct/2))
-            dx = randint(-42, 42)
-            y = y - dy * math.sqrt(ct) / topic_size
-            text(term, xpos + dx, y)
-
 
 def draw():
     make_title(util.Screen.inches(2.5))
