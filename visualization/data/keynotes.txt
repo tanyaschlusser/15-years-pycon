@@ -72,7 +72,7 @@
        K Lars Lohn describes how a language's structure influences
        our problem solving.
 
-2017 - Kelsey Hightower shows us how to voice-launch a cluster using Alexa and AWS.
+2017 - Kelsey Hightower shows us how to voice-launch a cluster using Google Assistant and the GCP.
        Lisa Guo and Hui Ding describe successes and challenges of the Python 2 to 3 conversion at Instagram.
        Katy Huff inspires us to join existing open source science projects, and
        Jake Vanderplas describes the Jupyter and NumFocus ecosystem.
