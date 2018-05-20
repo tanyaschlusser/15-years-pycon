@@ -1,5 +1,9 @@
 lxml
 requests
 SQLAlchemy >= 1
+altair
+jupyterlab
 nltk
+numpy
 scikit-learn
+scipy

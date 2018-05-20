@@ -1,0 +1,125 @@
+{
+    "education": [
+        "classroom", "curriculum", "teacher", "educat", "child",
+        "micropython", "micro::bit", "raspberry pi", "school",
+        "student", "turtle"
+    ],
+    "concurrency": [
+        "tornado", "twisted", "gevent", "asyncio", " event loop",
+        "coroutine", "tulip", "callback", "asynchronous"
+    ],
+    "performance": [
+        "profil", "memory", " ram", "benchmark", "bottleneck",
+        "performance", "parallel", "thread", "dask", " gpu", "cpu",
+        "efficien", "tune", "optimiz", "ctype", "swig", "llvm", "wrapper"
+    ],
+    "advice": [
+        " tip", " trick", "lessons learned", "gotcha", "trade-off",
+        "compar", "contrast", "advantages", "refactor", "pitfall",
+        "case stud"
+    ],
+    "collaboration": [
+        "agile", "scrum", " lean", "team", "collab", "review", "maintainab",
+        "design decision", "problem solv", "rapid"
+    ],
+    "documentation": ["sphinx", "pydoc", "documentation", "docs", "docstring"],
+    "cloud": [
+        "aws", "ec2", "gcs", "rackspace", "heroku", "cloud", "hosting",
+        "hosted", "serverless", "compute instance"
+    ],
+    "acquisition": [
+        "scrapy", "requests library", "selenium", "scrape", "scraping", "soap"
+    ],
+    "GIS":[" gis"],
+    "machine learning": [
+        "bayes", "classifier", "data scie", "data frame", "dataframe",
+        "data min", "filter", "time-series", "time series", "monte carlo",
+        "machine learning", "support vector machine", "theano", "tensorflow",
+        "opencv", "regression", "statist", "scikit", "sklearn", "kaggle"
+    ],
+    "numarray":["numarray"],
+    "NumPy":["numpy"],
+    "Pandas":["pandas"],
+    "IPython/Jupyter":["jupyter", "ipython"],
+    "neural net":["keras", "neural net", "tensorflow"],
+    "text":["sentiment", "text min", "nltk", "text ana"],
+    "visualization": [
+        "plot", "visual", "bokeh", "seaborn", "dashboard", "matplotlib",
+        "plot.ly", "plotly"
+    ],
+    "image": [" pil", "opengl", "graphic", "gimp"],
+    "application": [
+        "pygame", "kivy", "gtk", "tkinter", "qt", "wxpython", " ship", "sdk",
+        "py2exe", "user inter", "command line", "desktop application"
+    ],
+    "database": [
+        "database", " sql", "backend", "postgres", "datastore",
+        "data stor", "mvc", "mvt", "rdbms", "relational database",
+        "zodb", "django orm", "pony orm", "sqlalchemy", "sqlite3",
+        "peewee", "sqlobject", "data model"
+    ],
+    "NOSQL": [
+        "cassandra", "couch", "hadoop", "hdfs", "mongo", "nosql", "memcach",
+        "redis", "big data", "elasticsearch", " pig", "spark", "impala",
+        "yarn", "mapreduce", "neo4j", "storm"
+    ],
+    "web": [
+        "bottle ", "cherrypy", " cms", "django", "flask", "genshi", "jinja",
+        "pyramid", "pylons", "turbogears", "web2py", "wsgi", "zope",
+        "web app", "widget", "web framework", "gunicorn", "web site",
+        "web develop", " rpc"
+    ],
+    "net": ["twisted", "network", "cluster"],
+    "continuous deployment": [
+        "ansible", "chef", "fabric", "puppet", "deploy", "uptime", "up time"
+    ],
+    "workflow": ["workflow", "toolchain", " trac"],
+    "scaling data pipeline": [
+        "celery", "zeromq", "socket", "rabbitmq", "pipeline", "kafka", "smtp"
+    ],
+    "scaling web traffic": [
+        "nginx", "distributed computing", "load balanc", "scalab", "scaling",
+        "supervisor", "realtime", "real-time"
+    ],
+    "monitoring": ["logg", "splunk", "monitor", "diagnostic"],
+    "devops": [
+        "automate", "automation", "devops", "dev/ops", "dev-ops", "jenkins",
+        "travis", "operations", " ops", "container", "docker", "kubernetes",
+        "virtual machine", "microservice", "micro-service"
+    ],
+    "security/censorship": [
+        "attack", "authenticat", "crypt", "secur", "oauth", "ssh", "ssl",
+        "tls", "private", "pyca", " admin", "credential", "password"
+    ],
+    "IDEs": [
+        " wing", "komodo", "charm", "eclipse", "idle", " ide ", "editor",
+        "spyder"
+    ],
+    "implementation": [
+        "jython", "pypy", "cython", "ironpython", "stackless", "pythonnet",
+        "micropython", "circuitpython"
+    ],
+    "distribution": [
+        "buildout", "py2exe", "pypi", "egg", "wheel", "conda", "virtualenv",
+        "pip", "easy_install", "distutil", "setup.py", "setuptools", " ship"
+    ],
+    "language": [
+        "abstract base", " abc", "decorator", "generator", " iter", "mixin",
+        "idiom", "pythonic", "unicode", "pickle", "abstract syntax",
+        "closure", "concurr", " gil", "introspect", "immutable", " six",
+        "with statement", "context manag", "standard library",
+        "callable", "core", "factory", "python 3", "python3", "decimal",
+        "type annotation", "language feature", "unittest", "garbage", "regex",
+        "regular expression", "namespace", "metaclass", "tuple", "yield",
+        " zen", "subclass", "multiprocessing"
+    ],
+    "testing": [
+        " bug", "debug", "exception", "mock", "nose", "pdb", " test",
+        "unittest", "troubleshoot", "doctest", "fault", "fail", "tdd",
+        "lettuce"
+    ],
+    "other": [
+        "arduino", "sensor", "hardware", "robot", "blender", "animation",
+        "music", " iot ", " iot.", " iot,", "internet of things"
+    ]
+}

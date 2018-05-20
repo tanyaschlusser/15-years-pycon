@@ -1,4 +1,5 @@
 venv/
+.ipynb_checkpoints/
 Pipfile.lock
 PyCons.db
 *.pyc
