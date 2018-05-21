@@ -54,10 +54,16 @@ expect to spend an hour or two answering 'Y' or 'n' to questions like
 
 
 <a href="#analysis" name="analysis">#</a> <b>analysis</b>
+<a href="https://github.com/tanyaschlusser/15-years-pycon/tree/master/analysis/analysis.ipynb"><></a>
 
-... on its way shortly ... cleaning the code so I'm not embarrassed
+The analysis is done in a Jupyter notebook, and shows attempts at simple word frequency,
+clustering, and Latent Dirichlet Allocation. In the end, it was clear manual labeling
+would be the best option. The Excel file in `data/all_talks_byhand.xlsx` contains
+the manual labels. It was converted to a JSON, then annotated to add the captions in
+`visualization/data/topic_graph_byhand.json`.
 
 <a href="#visualization" name="visualization">#</a> <b>visualization</b>
+<a href="https://github.com/tanyaschlusser/15-years-pycon/tree/master/visualization"><></a>
 
 This directory is independent of the rest of the project.
 If all you want to do is reproduce the poster, go
